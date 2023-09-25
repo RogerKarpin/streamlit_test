@@ -155,7 +155,6 @@ stack-data==0.6.2
 statsmodels==0.14.0
 streamlit==1.27.0
 ta==0.10.2
-TA-Lib==0.4.28
 tenacity==8.2.3
 terminado==0.17.1
 threadpoolctl==3.2.0
